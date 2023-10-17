@@ -1,0 +1,2 @@
+# Finev10Memshell
+针对finereportv10反序列化接口/webroot/decision/remote/design/channel进行无回显检测并提供Godzilla memshell注入功能（部分环境缺少依赖无法成功）
